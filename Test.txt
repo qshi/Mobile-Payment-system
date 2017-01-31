@@ -1,0 +1,1 @@
+We tested the function of signing up, logging in, making a payment, email confiration. All test case pass through.
